@@ -19,7 +19,7 @@ This Python3 script requires Npcap/WinPcap, tkinter, psutil, scapy and ping3.
 
 You also need to install Npcap/WinPcap, the easiest way is to install nmap: 
 
-```winget install Nmap.Npcap``` (works on Windows 10 and 11)
+```winget install Insecure.Npcap``` (works on Windows 10 and 11)
 
 # Compile #
 
